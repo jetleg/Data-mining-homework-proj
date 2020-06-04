@@ -1,2 +1,3 @@
 # Data-mining-homework-proj
-a low proj
+You can see the request of this project in "2020summer-undergrad-final-project.docx"
+
