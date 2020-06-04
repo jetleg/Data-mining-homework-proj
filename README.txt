@@ -1,0 +1,3 @@
+只需要在您的编译器中打开binary_classifier.py，运行完成之后，预测结果即会被保存result.csv文件中。
+本程序中有几种不同的分类器可供选择，经过测试发现，RandomForestClassfier具有更好的性能，
+您也可以选择自己想要的分类器进行训练。
